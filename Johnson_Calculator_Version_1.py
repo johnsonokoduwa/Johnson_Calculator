@@ -170,7 +170,7 @@ if __name__ == "__main__":
     
         gui.configure(background="grey") 
 
-        gui.title("Johnson Okoduwa Imumbhon Calculator") 
+        gui.title("Johnson Okoduwa Imumbhon Calculator_Version-1") 
     
         gui.geometry("750x180") 
 
